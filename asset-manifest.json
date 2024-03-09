@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/my-dapp/static/css/main.d4db0713.css",
+    "main.js": "/my-dapp/static/js/main.94c7781e.js",
+    "static/js/453.7d602bfa.chunk.js": "/my-dapp/static/js/453.7d602bfa.chunk.js",
+    "index.html": "/my-dapp/index.html",
+    "main.d4db0713.css.map": "/my-dapp/static/css/main.d4db0713.css.map",
+    "main.94c7781e.js.map": "/my-dapp/static/js/main.94c7781e.js.map",
+    "453.7d602bfa.chunk.js.map": "/my-dapp/static/js/453.7d602bfa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d4db0713.css",
+    "static/js/main.94c7781e.js"
+  ]
+}
